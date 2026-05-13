@@ -9,7 +9,7 @@
 
 ## <img src="./assets/icon-laptop.png" width="20"> Currently a part of...
 
-&nbsp;&nbsp;<img src="./assets/icon-CHTC.svg" width="18"> [The Center for High Throughput Computing](https://chtc.cs.wisc.edu) where I work on a facilitation project called `Bytes of Knowledge` improving research computing documentation
+&nbsp;&nbsp;<img src="./assets/icon-CHTC.png" width="18"> [The Center for High Throughput Computing](https://chtc.cs.wisc.edu) where I work on a facilitation project called `Bytes of Knowledge` improving research computing documentation
 <br>
 &nbsp;&nbsp;<img src="./assets/icon-STS.png" width="15"> [Software Training for Students](https://sts.doit.wisc.edu) where I work as a Student Software Trainer helping students with web development, programming, and design software
 <br>
@@ -20,5 +20,5 @@
 
 | Name | Description |
 |---|---|
-| <img src="./assets/icon-network.png" width="18"> [gof-microbiome-networks](https://github.com/solislemuslab/gof-microbiome-networks) | Exploring the goodness of fit of mathematical network models applied to microbiome systems |
-|<img src="./assets/icon-mouse.png" width="18"> [personal-website](https://github.com/daniellawright/personal-website) | My personal website to showcase experience/projects/achievements |
+| [gof-microbiome-networks](https://github.com/solislemuslab/gof-microbiome-networks) | Exploring the goodness of fit of mathematical network models applied to microbiome systems |
+| [personal-website](https://github.com/daniellawright/personal-website) | My personal website to showcase experience/projects/achievements |
