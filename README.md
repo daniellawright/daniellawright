@@ -9,7 +9,7 @@
 
 ## <img src="./assets/icon-laptop.png" width="20"> Currently a part of...
 
-&nbsp;&nbsp;<img src="./assets/icon-CHTC.png" width="18"> [The Center for High Throughput Computing](https://chtc.cs.wisc.edu) where I analyze computing workflows to implement features that improve transparency around job scheduling and processing expectations
+&nbsp;&nbsp;<img src="./assets/icon-CHTC.png" width="18"> [The Center for High Throughput Computing](https://chtc.cs.wisc.edu) where I analyze documentation and develop web-based features to improve the user experience of research computing resources
 <br>
 &nbsp;&nbsp;<img src="./assets/icon-STS.png" width="15"> [Software Training for Students](https://sts.doit.wisc.edu) where I work as a Student Software Trainer helping students with web development, programming, and design software
 <br>
