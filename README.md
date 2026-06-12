@@ -13,7 +13,7 @@
 <br>
 &nbsp;&nbsp;<img src="./assets/icon-STS.png" width="15"> [Software Training for Students](https://sts.doit.wisc.edu) where help and teach students web development, programming, and design software
 <br>
-&nbsp;&nbsp;<img src="./assets/icon-SolisLemusLab.png" width="15"> [Solis-Lemus Lab](https://solislemuslab.github.io) working on my project `GOF Network Models to Microbiome` here I develop and analyze network models for microbiome systems and evaluate their goodness of fit
+&nbsp;&nbsp;<img src="./assets/icon-SolisLemusLab.png" width="15"> [Solis-Lemus Lab](https://solislemuslab.github.io) working on my project `GOF Network Models to Microbiome` where I develop and analyze network models for microbiome systems and evaluate their goodness of fit
 <br>
 
 ## <img src="./assets/icon-folder.png" width="20">  My Projects
