@@ -21,4 +21,4 @@
 | Name                                                                                | Description                                                                                |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [gof-microbiome-networks](https://github.com/solislemuslab/gof-microbiome-networks) | Exploring the goodness of fit of mathematical network models applied to microbiome systems |
-| [personal-website](https://github.com/daniellawright/personal-website)              | My personal website to showcase experience/projects/achievements                           |
+| [personal-website](https://github.com/daniellawright/personal-website)              | My personal website to showcase my experience, projects, and achievements so far! |
